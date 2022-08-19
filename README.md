@@ -11,4 +11,4 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=filipe-cavalcanti&show_icons=true&locale=pt-br" alt="filipe-cavalcanti" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipe-cavalcanti&show_icons=true&locale=pt-br&layout=compact" alt="filipe-cavalcanti" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipe-cavalcanti&show_icons=true&locale=pt-br&layout=compact" alt="filipe-cavalcanti" /></p>
