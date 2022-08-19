@@ -1,7 +1,7 @@
-<h1 align="center">Olá 👋, eu sou o Filipe</h1>
+<h1 align="center">Olá 👋, eu sou o Filipe.</h1>
 <h3 align="center">Sejam bem-vindos ao meu GitHub!</h3>
 
-<h3 align="center">Minhas redes sociais:</h3>
+<h3 align="center">Meu LinkedIn:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/filipecavalcantideandrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filipecavalcantideandrade" height="30" width="40" /></a>
 
