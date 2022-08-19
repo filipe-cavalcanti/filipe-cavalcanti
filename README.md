@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou o Filipe</h1>
+<h1 align="center">Olá 👋, eu sou o Filipe</h1>
 <h3 align="center">Sejam bem-vindos ao meu GitHub!</h3>
 
 <h3 align="center">Minhas redes sociais:</h3>
